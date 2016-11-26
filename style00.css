@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One|Noto+Sans');
+
+body{
+    font-family: "Noto Sans", sans-serif;
+    overflow-x: hidden;
+    background-color: azure;
+}
+#header{
+    color:azure;
+    text-shadow:2px 2px 5px orange;
+    background-image: url("img/sunset.jpg");
+    background-position: top;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 0;
+    padding-bottom:30%;
+}
+
+#footer{
+    padding-top:2em;
+    padding-bottom:2em;
+    background-color: #B8BBC4;
+    /*color: #0F131E;*/
+}
+
+.fancy-font{
+    font-family:"Fugaz One", sans-serif;
+}
+
+.header-content{
+    padding-top: 4em;
+    padding-right: 4em;
+}
+
+.content-area{
+    padding: 2em 0 2em 0;
+}
+
+.content-group{
+    padding:3.5em;
+}
