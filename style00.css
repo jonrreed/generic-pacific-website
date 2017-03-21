@@ -5,6 +5,9 @@ body{
     overflow-x: hidden;
     background-color: azure;
 }
+#topnav{
+    margin-bottom:0;
+}
 #header{
     color:azure;
     text-shadow:2px 2px 5px orange;
