@@ -52,4 +52,16 @@ body {
     .content-group {
         padding: 0.5em 2.5em;
     }
+    #header h1{
+        font-size: 28px;
+    }
+    #header h4{
+        font-size:14px;
+    }
+    #footer h4{
+        font-size:14px;
+    }
+    #footer h5{
+        font-size: 12px;
+    }
 }
